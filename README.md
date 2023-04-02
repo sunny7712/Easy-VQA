@@ -24,4 +24,4 @@ To see the results, visit my kaggle notebook:
 While the current model performs well, there are several areas for improvement. One potential avenue for improvement is to explore different architectures and hyperparameters to see if the performance can be further improved. Additionally, it may be useful to investigate the use of pre-trained models or transfer learning to improve the model's performance on more complex datasets.
 
 ## Acknowledgments
-We would like to thank VictorZhou for providing the Easy VQA dataset and the inspiration for this project. Additionally, we would like to thank the TensorFlow team for their excellent deep learning framework.
+I would like to thank VictorZhou for providing the Easy VQA dataset and the inspiration for this project.
