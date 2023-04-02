@@ -1,3 +1,6 @@
+# Kaggle Notebook
+To view the output of the code cells, visit the kaggle notebook: https://www.kaggle.com/code/sunny7712/easy-vqa
+
 # Easy-VQA
 Easy VQA: Deep Learning Model for Visual Question Answering
 This repository contains code for a deep learning model trained on the Easy Visual Question Answering (VQA) Dataset by VictorZhou. The model achieves almost 99% accuracy on the validation set and uses convolutional layers for image input and LSTM layer for text input to provide a relevant text output.
@@ -17,8 +20,6 @@ To use this code, you will need to have Python 3 installed, along with the follo
 You can install these packages using pip. For example:
 
 `pip install tensorflow numpy matplotlib`
-
-To see the results, visit my kaggle notebook: 
 
 ## Future Work
 While the current model performs well, there are several areas for improvement. One potential avenue for improvement is to explore different architectures and hyperparameters to see if the performance can be further improved. Additionally, it may be useful to investigate the use of pre-trained models or transfer learning to improve the model's performance on more complex datasets.
